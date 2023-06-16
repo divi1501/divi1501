@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Divyanshu Das</h1>
-<h3 align="center">A passionate Data Scientist aspirant and a Graphic designer from India.</h3>
+<h3 align="center">A passionate Web Developer and a Graphic designer from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b7611928384f8c7e2ec4e66b7693c3fbcca27489ac096&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Python for Data Science**
+- 🌱 I’m currently learning **Laravel for a Web Development Project**
 
 - 💬 Ask me about **HTML,CSS,SQL,Python,**
 
