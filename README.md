@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel for a Web Development Project**
 
-- 💬 Ask me about **HTML,CSS,SQL,Python,**
+- 💬 Ask me about **HTML,CSS,SQL,Python,Laravel**
 
 - 📫 How to reach me **divyanshud2001@gmail.com**
 
